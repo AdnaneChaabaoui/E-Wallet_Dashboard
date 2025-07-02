@@ -44,24 +44,29 @@ To view and interact with this project, you will need to have the following soft
 
 #### Interactive Filtering
 ![Dashboard Filtering GIF](https://placehold.co/600x400/CCCCCC/FFFFFF?text=Dashboard+Filtering+GIF)
+
 *The dashboard is fully interactive, allowing users to filter data dynamically by date, transaction type, user segment, and more to drill down into specific insights.*
 
 Here are some screenshots of the dashboard pages:
 
 #### Page 1: Overview
 ![Page 1 Screenshot](https://placehold.co/600x400/CCCCCC/FFFFFF?text=Dashboard+Page+1)
+
 *The homepage serves as the main navigation hub, featuring three prominent buttons that lead to the 'Transactions', 'Subscriptions', and 'Balance' pages.*
 
 #### Page 2: Transaction Analysis
 ![Page 2 Screenshot](https://placehold.co/600x400/CCCCCC/FFFFFF?text=Dashboard+Page+2)
+
 *A brief description of what this page shows.*
 
 #### Page 3: User Demographics
 ![Page 3 Screenshot](https://placehold.co/600x400/CCCCCC/FFFFFF?text=Dashboard+Page+3)
+
 *A brief description of what this page shows.*
 
 #### Page 4: Key Metrics
 ![Page 4 Screenshot](https://placehold.co/600x400/CCCCCC/FFFFFF?text=Dashboard+Page+4)
+
 *A brief description of what this page shows.*
 
 ---
